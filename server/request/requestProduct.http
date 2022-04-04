@@ -1,0 +1,40 @@
+@baseURL = http://localhost:3000/api/products
+
+#User
+
+# @name getAllProducts
+GET {{baseURL}}
+
+
+###
+
+# @name getListProducts
+
+GET {{baseURL}}?_page=1&_limit=2
+
+
+###
+
+# @name addNewProduct
+POST {{baseURL}}
+Content-Type: application/json
+
+{
+   "name": "Đức Anh"
+}
+###
+
+# @name UpdateProduct
+
+PUT {{baseURL}}/2
+Content-Type: application/json
+
+{
+   "name": "Đức Anh đẹp trai vl"
+}
+
+###
+
+# @name removeProduct
+
+DELETE {{baseURL}}/2
