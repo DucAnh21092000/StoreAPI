@@ -1,24 +1,5 @@
 {
   "users": [
-    {
-      "name": "Đức Anh",
-      "createdAt": 1649081289509,
-      "id": 1
-    },
-    {
-      "name": "From Thái Bình",
-      "updatedAt": 1649083631379,
-      "id": 2
-    },
-    {
-      "name": "with love",
-      "createdAt": 1649081361164,
-      "id": 3
-    },
-    {
-      "name": "❤️❤️",
-      "createdAt": 1649083524244,
-      "id": 4
-    }
+    
   ]
 }
