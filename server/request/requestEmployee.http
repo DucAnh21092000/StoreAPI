@@ -1,0 +1,44 @@
+@baseURL = http://localhost:3000/api/employees
+
+#User
+
+# @name getAllEmployees
+GET {{baseURL}}
+
+###
+
+# @name getListEmployees
+
+GET {{baseURL}}?_page=1&_limit=2
+
+
+###
+
+# @name sliceListEmployees
+GET {{baseURL}}?_start=0&_end=3
+
+###
+
+# @name addNewEmployee
+POST {{baseURL}}
+Content-Type: application/json
+
+{
+   "name": "Đức Anh"
+}
+###
+
+# @name UpdateNewEmployee
+
+PUT {{baseURL}}/2
+Content-Type: application/json
+
+{
+   "name": "Đức Anh đẹp trai vl"
+}
+
+###
+
+# @name removeEmployee
+
+DELETE {{baseURL}}/2
