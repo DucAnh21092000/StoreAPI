@@ -27,9 +27,55 @@
       "id": 5
     }
   ],
-  "products": [
+  "products": [{}],
+  "comments": [
     {
-      
+      "author": "Hương Nguyễn",
+      "avatar": "huong",
+      "content": "<p>Hay quá❤️ </p>",
+      "datetime": "1 giờ trước."
+    },
+    {
+      "author": "Hương Nguyễn",
+      "avatar": "huong",
+      "content": "<p>1 cuốn sách hay </p>",
+      "datetime": "1 giờ trước."
+    },
+    {
+      "author": "Minh Anh",
+      "avatar": "manh",
+      "content": "<p>Chắc chắn mình sẽ tìm đọc❤️❤️ </p>",
+      " datetime": "1 giờ trước."
+    },
+    {
+      "author": "Minh Anh",
+      "avatar": "manh",
+      "content": "<p> Cảm ơn b đã review </p>",
+      "datetime": "1 giờ trước."
+    },
+    {
+      "author": "Hương Nguyễn",
+      "avatar": "huong",
+      "content": "<p>Hay quá❤️ </p>",
+      "datetime": "1 giờ trước."
+    },
+    {
+      "author": "Hương Nguyễn",
+      "avatar": "huong",
+      "content": "<p>1 cuốn sách hay </p>",
+      "datetime": "1 giờ trước."
+    },
+    {
+      "author": "Minh Anh",
+      "avatar": "manh",
+      "content": "<p>Chắc chắn mình sẽ tìm đọc❤️❤️ </p>",
+      "datetime": "1 giờ trước."
+    },
+    {
+      "author": "Minh Anh",
+      "avatar": "manh",
+      "content": "<p> Cảm ơn b đã review </p>",
+      "datetime": "1 giờ trước."
     }
   ]
 }

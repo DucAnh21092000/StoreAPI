@@ -1,0 +1,44 @@
+@baseURL = http://localhost:3000/api/comments
+
+#User
+
+# @name getAllUsers
+GET {{baseURL}}
+
+###
+
+# @name getListUsers
+
+GET {{baseURL}}?_page=1&_limit=2
+
+
+###
+
+# @name sliceListUsers
+GET {{baseURL}}?_start=0&_end=3
+
+###
+
+# @name addNewUser
+POST {{baseURL}}
+Content-Type: application/json
+
+{
+   "name": "Đức Anh"
+}
+###
+
+# @name UpdateNewUser
+
+PUT {{baseURL}}/2
+Content-Type: application/json
+
+{
+   "name": "Đức Anh đẹp trai vl"
+}
+
+###
+
+# @name removeUser
+
+DELETE {{baseURL}}/2
