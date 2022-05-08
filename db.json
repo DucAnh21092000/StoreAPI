@@ -160,7 +160,7 @@
       "datetime": "1 giờ trước."
     }
   ],
-  "following": [
+  "followings": [
     {
       "id": 1,
       "name": "whynotchaooo",
@@ -183,7 +183,7 @@
       "src": "https://www.tiktok.com/@minhanhcute30?lang=en"
     }
   ],
-  "suggested": [
+  "suggests": [
     {
       "id": 1,
       "name": "whynotchaooo",
