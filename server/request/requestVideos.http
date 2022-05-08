@@ -1,0 +1,44 @@
+@baseURL = http://localhost:3000/api/videos
+
+#User
+
+# @name getAllVideos
+GET {{baseURL}}
+
+###
+
+# @name getListVideos
+
+GET {{baseURL}}?_page=1&_limit=2
+
+
+###
+
+# @name sliceListVideos
+GET {{baseURL}}?_start=0&_end=3
+
+###
+
+# @name addNewVideo
+POST {{baseURL}}
+Content-Type: application/json
+
+{
+   "name": "Đức Anh"
+}
+###
+
+# @name UpdateNewVideo
+
+PUT {{baseURL}}/2
+Content-Type: application/json
+
+{
+   "name": "Đức Anh đẹp trai vl"
+}
+
+###
+
+# @name removeVideo
+
+DELETE {{baseURL}}/2
