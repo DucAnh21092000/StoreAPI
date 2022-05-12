@@ -1,7 +1,8 @@
 {
   "videos": [
     {
-      "name": "thou đin khùm🇻🇳",
+      "name": "thouthou_vanila",
+      "author": "thou đin khùm🇻🇳",
       "createdAt": 1649081289509,
       "id": 1,
       "hagtag": [
@@ -16,97 +17,131 @@
       ],
       "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1651492359/Video%20TikTok/thao.328c465475c6f53b6899_itgavt.mp4",
       "img": "data:image/jpeg;base64,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",
-      "content": "Tranh thủ 15 phút ra chơi quay toptop kiểu 😃"
+      "content": "Tranh thủ 15 phút ra chơi quay toptop kiểu 😃",
+      "love": "219K",
+      "comments": 2109,
+      "share": 2408,
+      "music": "Timber LHT - 𝐿𝑒 𝐻𝑢𝑦𝑒𝑛 𝑇𝑟𝑎𝑛𝑔🐰"
     },
     {
       "name": "djmievn",
       "updatedAt": 1649083631379,
       "id": 3,
       "content": "Nhẹ nhàng 1 tí rồi mình tưng bừng nha 🥳😍",
-      "views": 21092000,
-      "love": 2109,
+      "author": "MIE",
       "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1651505903/Video%20TikTok/video1_xlixtr.mp4",
       "img": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652090445/avatar/djmie_vc42qb.jpg",
       "hagtag": ["performance", "edm", "djmie", "mie"],
-      "comments": 21092000
+      "love": "248K",
+      "comments": 2109,
+      "share": 9999
     },
     {
       "name": "whynotchaooo",
+      "author": "Chao",
       "updatedAt": 1649083631379,
       "id": 4,
       "content": "Chao khỏi ốm rùi đây 🥰 IG: _whynotchao_",
-      "views": "2873000",
       "love": "2873000",
       "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1651506317/Video%20TikTok/chao_dfl62j.mp4",
       "img": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652090389/avatar/chao_new1ko.jpg",
       "hagtag": ["vlog", "fyg", "trending", "nyc", "newyorkcity", "shopping", "xuhuong"],
-      "comments": 865
+      "comments": 865,
+      "share": 2408,
+      "music": "Strawberry - Prod by Rose"
     },
     {
       "name": "hoaa.hanassii",
+      "author": "Đào Lê Phương Hoa",
       "updatedAt": 1649083631379,
       "id": 5,
       "content": "Hoàng tử trở lại @symbolic.studio",
-      "views": "21092000",
-      "love": "2109",
       "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1652090599/Video%20TikTok/Hoa_lmqamf.mp4",
       "img": "",
-      "hagtag": []
+      "hagtag": [],
+      "love": "219K",
+      "comments": 2109,
+      "share": 2000,
+      "music": "RAVE - Dxrk ダーク"
     },
     {
-      "name": "thou đin khùm🇻🇳",
+      "name": "thouthou_vanila",
+      "author": "thou đin khùm🇻🇳",
       "updatedAt": 1649083631379,
       "id": 6,
-      "content": "",
-      "views": "",
-      "love": "",
-      "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1651492359/Video%20TikTok/thao.328c465475c6f53b6899_itgavt.mp4",
+      "content": "#sponsored Nhạc cháy như này mà lắc mỗi cái mong à🙂🙂",
+      "share": "2109",
+      "comments": "2408",
+      "love": "327.5K",
+      "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1652090604/Video%20TikTok/thao2_maolx3.mp4",
       "img": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652090775/avatar/thou_yw6hud.jpg",
-      "hagtag": []
+      "hagtag": [
+        "tuilathouthou",
+        "trending",
+        "viral",
+        "fyp",
+        "xuhuong",
+        "tiktokdancevn",
+        "lecirque",
+        "xh"
+      ],
+      "music": "Siêu Cuốn (Short Version) - Ka Minn"
     },
     {
-      "name": "From Thái Bình",
+      "name": "yen.hoang",
+      "author": "Hoàng Yến Official ✨",
       "updatedAt": 1649083631379,
       "id": 7,
-      "content": "",
-      "views": "",
-      "love": "",
-      "src": "",
-      "img": "",
-      "hagtag": []
+      "content": "Luôn biết ơn những vị anh hùng đã hi sinh ❤️🇻🇳 ",
+      "love": "186.6K",
+      "comments": "479",
+      "share": 2000,
+      "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1652330054/Video%20TikTok/video_yen_eveyag.mp4",
+      "img": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/yen_pvq3ty.jpg",
+      "hagtag": ["VoThiSau", "celebnetwork", "clteam"],
+      "music": "nhạc nền - Thất Nguyệt Gia"
     },
     {
-      "name": "From Thái Bình",
+      "name": "cciinnn",
+      "author": "CiiN",
       "updatedAt": 1649083631379,
       "id": 8,
-      "content": "",
-      "views": "",
-      "love": "",
-      "src": "",
-      "img": "",
-      "hagtag": []
+      "content": "Em là nhất, khum nhất thì thôyyy 🥹🥹",
+      "love": "97.7K",
+      "comments": "892",
+      "share": "2109",
+      "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1652330274/Video%20TikTok/video_cin_na95ym.mp4",
+      "img": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328912/avatar/cin_lmsvih.jpg",
+      "hagtag": [],
+      "music": "Em Là Nhất (Cukak Remix) - Cukak & Kis & Hoang Kaylee & Yahy"
     },
     {
-      "name": "From Thái Bình",
+      "name": "linhsieuxinhhh",
+      "author": "Linhsieuxinh",
       "updatedAt": 1649083631379,
       "id": 9,
-      "content": "",
-      "views": "",
-      "love": "",
-      "src": "",
-      "img": "",
-      "hagtag": []
+      "content": "Mây Hồng Đưa Lối - DatKaa - 𝘹𝘕𝘩𝘺 ム",
+      "comments": "182",
+      "love": "35.7K",
+      "share": 2408,
+      "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1652331068/Video%20TikTok/linh_video_rtcmpi.mp4",
+      "img": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652331024/Video%20TikTok/linhss_o47sx7.jpg",
+      "hagtag": ["acventertainment", "linhsieuxinh", "acv.genz"],
+      "music": " @acv.genz Mây Hồng Đưa Lối - DatKaa - 𝘹𝘕𝘩𝘺 ム"
     },
     {
-      "name": "From Thái Bình",
+      "name": "t.thao2004",
+      "author": "Thảo Trần",
       "updatedAt": 1649083631379,
       "id": 10,
-      "content": "",
-      "views": "",
-      "love": "",
-      "src": "",
-      "img": "",
-      "hagtag": []
+      "content": "2008 say hi✌🏽",
+      "comments": "2124",
+      "love": "224.6K",
+      "share": "2109",
+      "src": "https://res.cloudinary.com/ducanh21092000/video/upload/v1652331263/Video%20TikTok/thaovideo_uyoryr.mp4",
+      "img": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/thao_g52c9d.jpg",
+      "hagtag": ["xuhuong", "trending", "lecirque", "NhacHayMoiNgay", "dance"],
+      "music": "Kiss_Hưng bobi - ⚜️Quang Huy⚜️"
     }
   ],
   "products": [{}],
@@ -164,21 +199,21 @@
     {
       "id": 1,
       "name": "whynotchaooo",
-      "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7a4f2453346b60879d89e48eb700aaf4.jpeg?x-expires=1652166000&x-signature=zTC0y%2FQ4vw2sjOickVXSN7wzK04%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652090389/avatar/chao_new1ko.jpg",
       "author": "Chao",
       "src": "https://www.tiktok.com/@whynotchaooo?lang=en"
     },
     {
       "id": 2,
       "name": "userqeyhti1qta ",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2e4d6991c85b4fba16c74f0b97901c91~c5_100x100.jpeg?x-expires=1652166000&x-signature=MEakC2OmsmaNzPcBvubIu8sHshM%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328362/avatar/quanh_f8k1dg.jpg",
       "author": "Nguyễn Hoàng36281",
       "src": "https://www.tiktok.com/@userqeyhti1qta?lang=en"
     },
     {
       "id": 3,
       "name": "minhanhcute30",
-      "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1663596893472769.jpeg?x-expires=1652166000&x-signature=zjCK6b2y2I%2Ba581ro1qTEmZUSf0%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328368/avatar/manh_zrowk9.jpg",
       "author": "Minh Anh",
       "src": "https://www.tiktok.com/@minhanhcute30?lang=en"
     }
@@ -187,140 +222,140 @@
     {
       "id": 1,
       "name": "whynotchaooo",
-      "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7a4f2453346b60879d89e48eb700aaf4.jpeg?x-expires=1652166000&x-signature=zTC0y%2FQ4vw2sjOickVXSN7wzK04%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652090389/avatar/chao_new1ko.jpg",
       "author": "Chao",
       "src": "https://www.tiktok.com/@whynotchaooo?lang=en"
     },
     {
       "id": 2,
       "name": "userqeyhti1qta ",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/2e4d6991c85b4fba16c74f0b97901c91~c5_100x100.jpeg?x-expires=1652166000&x-signature=MEakC2OmsmaNzPcBvubIu8sHshM%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328362/avatar/quanh_f8k1dg.jpg",
       "author": "Nguyễn Hoàng36281",
       "src": "https://www.tiktok.com/@userqeyhti1qta?lang=en"
     },
     {
       "id": 3,
       "name": "minhanhcute30",
-      "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1663596893472769.jpeg?x-expires=1652166000&x-signature=zjCK6b2y2I%2Ba581ro1qTEmZUSf0%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328368/avatar/manh_zrowk9.jpg",
       "author": "Minh Anh",
       "src": "https://www.tiktok.com/@minhanhcute30?lang=en"
     },
     {
       "id": 4,
       "name": "linh__201",
-      "avatar": "https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1659418328367105.jpeg?x-expires=1652166000&x-signature=tFYSwOdjbrA%2FOgdAbAGjSurrDMU%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328538/avatar/linh_j4qojl.jpg",
       "author": "linh buồn ngủ🥱🥱🥱",
       "src": "https://www.tiktok.com/@linh__201?lang=en"
     },
     {
       "id": 5,
-      "name": "57375855",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?x-expires=1652169600&x-signature=Meb2mkzDtKkjUHRsttjytrPL9gA%3D",
-      "author": "Phương Gôn",
-      "src": "https://www.tiktok.com/@MS4wLjABAAAAaj9OhaqsDS0R9eF_JS-pmwsOzerVgL-PLiNuVJ4CfHw?lang=en"
-    },
-    {
-      "id": 6,
       "name": "thouthou_vanila",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/b887d1f24d638422f26b3b03e4e71fe5~c5_100x100.jpeg?x-expires=1652094000&x-signature=%2FpngEqMvtQuJIm6M7tvmA7FiLwU%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652090775/avatar/thou_yw6hud.jpg",
       "author": "thou đin khùm🇻🇳",
       "src": "https://www.tiktok.com/@thouthou_vanila/video/7087510237661400347?is_copy_url=1&is_from_webapp=v1&lang=en&q=thoudinkhum&t=1651997697074"
     },
     {
+      "id": 6,
+      "name": "57375855",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328538/avatar/phuong_azvaff.jpg",
+      "author": "Phương Gôn",
+      "src": "https://www.tiktok.com/@MS4wLjABAAAAaj9OhaqsDS0R9eF_JS-pmwsOzerVgL-PLiNuVJ4CfHw?lang=en"
+    },
+    {
       "id": 7,
       "name": "hoaa.hanassii",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ea0854578085ab26effc2c7b8cefa270~c5_100x100.jpeg?x-expires=1652169600&x-signature=K3eJvN9kObDr9mbiRze8JgQik2E%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652090568/avatar/hoa_dhd5ht.jpg",
       "author": "Đào Lê Phương Hoa",
       "src": "https://www.tiktok.com/@hoaa.hanassii?lang=en"
     },
     {
       "id": 8,
       "name": "cciinnn",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/cf6d63edcee4ce81432e92c4dadffc65~c5_100x100.jpeg?x-expires=1652169600&x-signature=eynabR9zyuPHjrnqSg9qlXphjRI%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328912/avatar/cin_lmsvih.jpg",
       "author": "CiiN",
       "src": "https://www.tiktok.com/@cciinnn?lang=en"
     },
     {
       "id": 9,
       "name": "trieulinhtrangk3",
-      "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/a2d06f74bbeafd0eecb3b07f423a054d.jpeg?x-expires=1652169600&x-signature=ZCerxEWBozC3NZPuwJVd%2BnMunsM%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/trang_rll4ec.jpg",
       "author": "Triệu Linh Trang (Chún)🌸",
       "src": "https://www.tiktok.com/@trieulinhtrangk3?lang=en"
     },
     {
       "id": 10,
       "name": "vietphuongthoa98",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/e86867bdcd0d0fa4649f4731b60677ad~c5_100x100.jpeg?x-expires=1652169600&x-signature=O3wUKE2YeYFJOfrBnjaUuFYOWWQ%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/thoa_iwnazn.jpg",
       "author": "Việt Phương Thoa",
       "src": "https://www.tiktok.com/@vietphuongthoa98"
     },
     {
       "id": 11,
       "name": "f8official",
-      "avatar": "https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/debf82e3bab4230a29e417efe2163c81.jpeg?x-expires=1652169600&x-signature=ZL%2BR4CQ5smlHDYmHIFdTAgdu6m8%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/f8_ccmdo4.jpg",
       "author": "F8 Official",
       "src": "https://www.tiktok.com/@f8official?lang=en"
     },
     {
       "id": 12,
       "name": "lebong95",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/557695794d1cb0b4a32322da33aac45d~c5_100x100.jpeg?x-expires=1652169600&x-signature=jf78dVulFQSCAbolkq%2B3tzwEmhg%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/lebong_awfddt.jpg",
       "author": "Le bong",
       "src": "https://www.tiktok.com/@lebong95"
     },
     {
       "id": 13,
       "name": "yen.hoang_",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/624cabef5187860635f61908f9156d37~c5_100x100.jpeg?x-expires=1652169600&x-signature=UreHKxAgPZlmHZmomN1aV9ca1VY%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/yen_pvq3ty.jpg",
       "author": "Hoàng Yến Official ✨",
       "src": "https://www.tiktok.com/@yen.hoang_"
     },
     {
       "id": 14,
       "name": "tuongmai2611",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/3e2398f43d2c505463458753e24fdfe6~c5_100x100.jpeg?x-expires=1652169600&x-signature=2FJghtqLyVnXydw0AmOxHG27%2BqM%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/mai_ykokby.jpg",
       "author": "Tường Mai",
       "src": "https://www.tiktok.com/@tuongmai2611"
     },
     {
       "id": 15,
       "name": "lanppp2001",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/6883d7c6f72a3a439184fabd71727951~c5_100x100.jpeg?x-expires=1652169600&x-signature=vLWb9kD%2F1DCBfygs%2FSYyGIoanpw%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/lan_syikfp.jpg",
       "author": "Lan Phương",
       "src": "https://www.tiktok.com/@lanppp2001"
     },
     {
       "id": 16,
       "name": "ngocanhday__",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/39a943d2f40e788021f9bde190d05854~c5_100x100.jpeg?x-expires=1652169600&x-signature=fFMEuPUjuy2yp8itU2izoswE2gs%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/anh_ld5mnz.jpg",
       "author": "ngocanhday__",
       "src": "https://www.tiktok.com/@ngocanhday__"
     },
     {
       "id": 17,
       "name": "uyen.nii",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ccdc33518fd2505c132c8787f636dcb5~c5_100x100.jpeg?x-expires=1652169600&x-signature=8rdG%2FhuAaeFztW1nNydbhSl7jfU%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/uyen_e8gzzp.jpg",
       "author": "𝓤𝔂𝓮𝓷 𝓝𝓲 🌼",
       "src": "https://www.tiktok.com/@uyen.nii"
     },
     {
       "id": 18,
       "name": "t.thao2004",
-      "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/a792ab1f92793bce31e8969f1ac95328.jpeg?x-expires=1652169600&x-signature=ajqW4tztWuoxzMW%2BXIZWjY1bwoY%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/thao_g52c9d.jpg",
       "author": "Thảo Trần",
       "src": "https://www.tiktok.com/@t.thao2004"
     },
     {
       "id": 19,
       "name": "anhcoca1204",
-      "avatar": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/076320bfc5a758cde0ed431240088ac0~c5_100x100.jpeg?x-expires=1652173200&x-signature=cs8Ao%2F4N6qQfr75iW8fNWnRl0yM%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/ngocanh_w9yl9y.jpg",
       "author": "@Ngọc Ánh",
       "src": "https://www.tiktok.com/@anhcoca1204"
     },
     {
       "id": 20,
       "name": "myvan_shyn",
-      "avatar": "https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/bac62fb0a31967fc8e7630e6de6c8399.jpeg?x-expires=1652173200&x-signature=4eENzld2W%2F27eUY400y1YonmREE%3D",
+      "avatar": "https://res.cloudinary.com/ducanh21092000/image/upload/v1652328911/avatar/van_yto2de.jpg",
       "author": "My Vân",
       "src": "https://www.tiktok.com/@myvan_shyn"
     }
