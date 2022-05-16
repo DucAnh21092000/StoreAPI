@@ -1,0 +1,44 @@
+@baseURL = http://localhost:3000/api/live
+
+#User
+
+# @name getAllFollowings
+GET {{baseURL}}
+
+###
+
+# @name getListFollowings
+
+GET {{baseURL}}?_page=1&_limit=2
+
+
+###
+
+# @name sliceListFollowings
+GET {{baseURL}}?_start=0&_end=3
+
+###
+
+# @name addNewFollowing
+POST {{baseURL}}
+Content-Type: application/json
+
+{
+   "name": "Đức Anh"
+}
+###
+
+# @name UpdateNewFollowing
+
+PUT {{baseURL}}/2
+Content-Type: application/json
+
+{
+   "name": "Đức Anh đẹp trai vl"
+}
+
+###
+
+# @name removeFollowing
+
+DELETE {{baseURL}}/2
